@@ -2,15 +2,13 @@
 
 ---
 
-###  Обо мне:
+##  Обо мне:
 
-Я начинающий тестировщик
+# Я начинающий тестировщик.
 
-<<<<<<< HEAD
 -  Как связаться со мной:  [![Yandex Badge](https://img.shields.io/badge/-Yandex-red)](mailto:istudent2013@ya.ru)
 =======
-- 📫 Как связаться со мной:  [![Yandex Badge](https://img.shields.io/badge/-Yandex-red)](https://mail.yandex.ru/istudent2013@ya.ru)
->>>>>>> 9baf99f3ebbcebd3cc1ae6bfe9837585ea01feaa
+
 
 
 ---
