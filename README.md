@@ -6,7 +6,7 @@
 
 Я начинающий тестировщик
 
-- 📫 Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Yandex-red)](mailto:qa.rusau@gmail.com)
+- 📫 Как связаться со мной:  [![Yandex Badge](https://img.shields.io/badge/-Yandex-red)](istudent2013@ya.ru)
 
 
 ---
