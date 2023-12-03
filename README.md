@@ -1,6 +1,6 @@
 [![Hesder](https://github.com/nikita046/nikitaemelyanovy/blob/main/header.png)]
 
-About me
+## I am a practicing geodesic engineer, looking for my recognition in the field of QA engineering
 
 
 
