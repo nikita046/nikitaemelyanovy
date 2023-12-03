@@ -6,7 +6,7 @@
 
 Я начинающий тестировщик
 
-- 📫 Как связаться со мной:  [![Yandex Badge](https://img.shields.io/badge/-Yandex-red)](istudent2013@ya.ru)
+- 📫 Как связаться со мной:  [![Yandex Badge](https://img.shields.io/badge/-Yandex-red)](https://mail.yandex.ru/istudent2013@ya.ru)
 
 
 ---
